@@ -1,2 +1,2 @@
 # stromlo-slr-assess
-Code to perform the monthly MT Stromlo SLR assessment
+Code to perform the monthly Mt Stromlo SLR assessment directly from the DOR files 
