@@ -26,8 +26,13 @@ Z – Weather
 We have other codes, H, I and W that are never used.
 
 """
+
+
+
+"""
+Old stuff
+
 import re
-import sys
 import datetime
 from dateutil.relativedelta import relativedelta
 import os
@@ -64,7 +69,6 @@ duplicates = []
 
 # T < -27 clear; T > -27 cloudy
 
-"""
     lines = []
     go = False
     for line in open('dor_files/' + file):
